@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images_Tagging</folder>
+	<filename>31.png</filename>
+	<path>C:\Users\Akash Chandwani\Documents\Images_Tagging\31.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>850</width>
+		<height>1100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handwritten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>1016</ymin>
+			<xmax>681</xmax>
+			<ymax>1076</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>handwritten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>1006</ymin>
+			<xmax>796</xmax>
+			<ymax>1050</ymax>
+		</bndbox>
+	</object>
+</annotation>
