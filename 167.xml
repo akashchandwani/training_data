@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ImagesOfLeases</folder>
+	<filename>167.png</filename>
+	<path>C:\Users\Siddhant Tewari\Desktop\Image_Data\ImagesOfLeases\167.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2200</width>
+		<height>1700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>handwritten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>817</xmin>
+			<ymin>269</ymin>
+			<xmax>895</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>handwritten</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1912</xmin>
+			<ymin>1281</ymin>
+			<xmax>1964</xmax>
+			<ymax>1479</ymax>
+		</bndbox>
+	</object>
+</annotation>
